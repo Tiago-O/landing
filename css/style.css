@@ -33,24 +33,24 @@ a {
 
 /* --- media queries --- */
 
-@media (max-width: 720px) {
+@media (max-width: 920px) {
   /* For a screen < 720px, this CSS will be read */
   .container {
-    width: 500px;
+    width: 700px;
   }
 
   .card {
-    width: 111px;
+    width: 180px;
   }
 
   .card img {
-  height: 50px;
+  height: 75px;
   }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 720px) {
   .container {
-    width: 400px;
+    width: 200px;
   }
 
   .cards {
