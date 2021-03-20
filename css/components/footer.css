@@ -9,6 +9,10 @@
   color: #1EDD88;
 }
 
+.footer a:hover {
+  color: #138C56;
+}
+
 .footer p {
   color: #6B6C6C;
 }
